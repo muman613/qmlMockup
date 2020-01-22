@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Header.qml</file>
+        <file>qml/Footer.qml</file>
+        <file>qml/Icon.qml</file>
+        <file>qml/Option.qml</file>
+        <file>images/Gear-Black.svg</file>
+        <file>images/Gear-White.svg</file>
+    </qresource>
+</RCC>
