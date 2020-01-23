@@ -10,7 +10,7 @@ ApplicationWindow {
     minimumWidth: 320
     minimumHeight: 240
 
-    title: qsTr("Hello World")
+    title: qsTr("Mockup App")
 
     color: "lightblue"
     Header {
